@@ -18,3 +18,9 @@ print('###################################')
 for x in range(0, 5):
 	for y in range(0, 5):
 		print(x, 'x', y, 'y')
+
+print('===================================')
+# print horizontal and vertical
+for x in range(0, 30):
+	print(x, end=' ')
+	
